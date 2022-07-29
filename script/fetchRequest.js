@@ -1,4 +1,4 @@
-const URL = 'ВАШ СЕРВЕР';
+const URL = 'http://localhost:3000/api/';
 
 const fetchRequest = async (postfix, {
   method = 'get',
